@@ -83,7 +83,7 @@ export const projectsData = [
 		title: "IT-Planet - Dec 2022",
 		description:
 			"Developed learning website, more than 5 courses about IT development, Involved 100 percent with React Router Dom to navigate different pages ",
-		tags: ["React", "Next.js", "SASS", "Hooks", "Typewriter", "Git"],
+		tags: ["React", "Next.js", "SASS", "Hooks", "Typewriter"],
 		imageUrl: itplanetImg,
 		proLink: "https://itplanet.netlify.app/",
 	},
@@ -99,7 +99,7 @@ export const projectsData = [
 		title: "Banking - June 2023",
 		description:
 			"Built web app for tranferring moneys, you can do a lot : Transfer money, Request to loan, Create/Close account. I enjoyed working with pure javascript in this app and it brought me great knowledge ",
-		tags: ["Javascript", "HTML", "Git", "CSS"],
+		tags: ["Javascript", "HTML", "CSS"],
 		imageUrl: bankingImg,
 		proLink: "https://webprojon.github.io/banking-pure-javascript/",
 	},
@@ -107,7 +107,7 @@ export const projectsData = [
 		title: "Workout - March 2023",
 		description:
 			"Created 100 percent working workout platform, and used Geolocation API to get location and pin address that you work ",
-		tags: ["JavaScript", "HTML", "CSS", "Git", "LocalStorage"],
+		tags: ["JavaScript", "HTML", "CSS", "LocalStorage"],
 		imageUrl: workoutImg,
 		proLink: "https://webprojon.github.io/Make-Workout/",
 	},
