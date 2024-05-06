@@ -5,6 +5,8 @@ import { LuGraduationCap } from "react-icons/lu";
 import workoutImg from "@/public/workout.png";
 import bankingImg from "@/public/banking.png";
 import itplanetImg from "@/public/it-plant.png";
+import rmtdevImg from "@/public/rmtdev.png";
+import corpcommentImg from "@/public/corpcomment.png";
 
 export const links = [
 	{
@@ -70,22 +72,27 @@ export const experiencesData = [
 
 export const projectsData = [
 	{
+		title: "rmtDev",
+		description:
+			"Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
+		tags: ["Javascript", "HTML", "CSS"],
+		imageUrl: rmtdevImg,
+	},
+	{
 		title: "IT-Planet - Dec 2022",
 		description:
 			"Developed learning website, more than 5 courses about IT development, Involved 100 percent with React Router Dom to navigate different pages ",
-		tags: [
-			"React",
-			"Next.js",
-			"SASS",
-			"Hooks",
-			"Typewriter",
-			"Git",
-			"Framer Motion",
-		],
+		tags: ["React", "Next.js", "SASS", "Hooks", "Typewriter", "Git"],
 		imageUrl: itplanetImg,
 		proLink: "https://itplanet.netlify.app/",
 	},
-
+	{
+		title: "CorpComment",
+		description:
+			"Amazing mini web app that users can give public feedback to companies.",
+		tags: ["Javascript", "HTML", "CSS"],
+		imageUrl: corpcommentImg,
+	},
 	{
 		title: "Banking - June 2023",
 		description:
