@@ -1,7 +1,6 @@
-import React from "react";
-import { motion } from "framer-motion";
-import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
+import { styles } from "../styles";
+import { motion } from "framer-motion";
 
 const Hero = () => {
 	return (
@@ -21,6 +20,20 @@ const Hero = () => {
 			</div>
 
 			<ComputersCanvas />
+
+			<div className="absolute xs:bottom-10 bottom-4 w-full flex items-center justify-center">
+				<a href="#about">
+					<div className="w-[32px] h-[55px] rounded-3xl border-4 flex justify-center items-start p-2 border-[#aaa6c3]">
+						<motion.div
+							animate={{
+								y: [0, 24, 0],
+							}}
+							transition={{ duration: 1.5, repeat: Infinity, repeatType: "loop" }}
+							className="w-3 h-3 rounded-full bg-[#aaa6c3]"
+						/>
+					</div>
+				</a>
+			</div>
 		</section>
 	);
 };
