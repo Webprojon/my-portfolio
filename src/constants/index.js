@@ -59,6 +59,48 @@ const services = [
 	},
 ];
 
+const experiences = [
+	{
+		title: "Frontend Developer Intern",
+		company_name: "DYNAMIC SOFT",
+		icon: web,
+		iconBg: "#383E56",
+		date: "Mar 2024 - Jun 2024",
+		points: [
+			"Gained hands-on experience in frontend development, mastering fundamental coding principles, best practices.",
+			"Developed and optimized clean, efficient, and maintainable code, contributing to a 95% project success rate.",
+			"Implementing responsive design and ensuring cross-browser compatibility.",
+			"Collaborated with senior developers and mentors to enhance my knowledge of React, JavaScript, TypeScript",
+		],
+	},
+	{
+		title: "Junior Frontend Developer",
+		company_name: "Limsa",
+		icon: mobile,
+		iconBg: "#E6DEDD",
+		date: "Jul 2024 - Yan 2025",
+		points: [
+			"Designed and implemented a dynamic, user-friendly interface for the Dubai-based Autozoom car rental platform using React.js, ensuring seamless user experience and 100% responsiveness across all devices.",
+			"Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+			"Developed and integrated frontend solutions for 1k customer support, significantly reducing issue resolution time.",
+			"Collaborated with backend developers, UI/UX designers, and stakeholders to align frontend functionalities.",
+		],
+	},
+	{
+		title: "Full-stack Developer ",
+		company_name: "Self-employed",
+		icon: creator,
+		iconBg: "#383E56",
+		date: "Apr 2025 - Present",
+		points: [
+			"Built 100% responsive frontend interfaces with React.js, Next.js, for smooth user experience.",
+			"Managed app state and styling for scalable and clean UI.",
+			"Developed 50% faster response APIs and real-time features using Node.js, Express, Socket.io and MongoDB",
+			"• Integrated Firebase auth and Stripe payments; collaborated with teams for delivery.",
+		],
+	},
+];
+
 const technologies = [
 	{
 		name: "HTML 5",
@@ -111,61 +153,6 @@ const technologies = [
 	{
 		name: "docker",
 		icon: docker,
-	},
-];
-
-const experiences = [
-	{
-		title: "React.js Developer",
-		company_name: "Starbucks",
-		icon: starbucks,
-		iconBg: "#383E56",
-		date: "March 2020 - April 2021",
-		points: [
-			"Developing and maintaining web applications using React.js and other related technologies.",
-			"Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-			"Implementing responsive design and ensuring cross-browser compatibility.",
-			"Participating in code reviews and providing constructive feedback to other developers.",
-		],
-	},
-	{
-		title: "React Native Developer",
-		company_name: "Tesla",
-		icon: tesla,
-		iconBg: "#E6DEDD",
-		date: "Jan 2021 - Feb 2022",
-		points: [
-			"Developing and maintaining web applications using React.js and other related technologies.",
-			"Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-			"Implementing responsive design and ensuring cross-browser compatibility.",
-			"Participating in code reviews and providing constructive feedback to other developers.",
-		],
-	},
-	{
-		title: "Web Developer",
-		company_name: "Shopify",
-		icon: shopify,
-		iconBg: "#383E56",
-		date: "Jan 2022 - Jan 2023",
-		points: [
-			"Developing and maintaining web applications using React.js and other related technologies.",
-			"Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-			"Implementing responsive design and ensuring cross-browser compatibility.",
-			"Participating in code reviews and providing constructive feedback to other developers.",
-		],
-	},
-	{
-		title: "Full stack Developer",
-		company_name: "Meta",
-		icon: meta,
-		iconBg: "#E6DEDD",
-		date: "Jan 2023 - Present",
-		points: [
-			"Developing and maintaining web applications using React.js and other related technologies.",
-			"Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-			"Implementing responsive design and ensuring cross-browser compatibility.",
-			"Participating in code reviews and providing constructive feedback to other developers.",
-		],
 	},
 ];
 
