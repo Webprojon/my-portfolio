@@ -25,7 +25,7 @@ I'm a passionate **Fullstack Developer** who loves building modern, responsive w
 
 📫 **How to reach me:**
 
-- Portfolio: [tokhirjonkhasanov.com](tokhirjonkhasanov.com)
+- Portfolio: [tokhirjonkhasanov.com](https://tokhirjon.vercel.app)
 - LinkedIn: [linkedin/tokhirjon-khasanov](https://www.linkedin.com/in/tokhirjon-khasanov/)
 - Email: tokhirjonkhasanov@gmail.com
 
