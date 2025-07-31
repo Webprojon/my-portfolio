@@ -26,8 +26,8 @@ const Contact = () => {
 
 		emailjs
 			.send(
-				"service_oe9jdne",
-				"template_bch3app",
+				`${import.meta.env.VITE_SERVICE_KEY}`,
+				`${import.meta.env.VITE_TEMPLETE_KEY}`,
 				{
 					form_name: form.name,
 					to_name: "Tokhirjon",
@@ -35,7 +35,7 @@ const Contact = () => {
 					to_email: "tokhirjonkhasanov@gmail.com",
 					message: form.message,
 				},
-				"kFSFly9oonuv6HMA_",
+				`${import.meta.env.VITE_PUBLIC_KEY}`,
 			)
 			.then(
 				() => {

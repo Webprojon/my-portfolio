@@ -15,10 +15,10 @@ import {
 	git,
 	figma,
 	docker,
-	carrent,
-	jobit,
-	tripguide,
 	threejs,
+	autozoom,
+	resumind,
+	estate,
 } from "../assets";
 
 export const navLinks = [
@@ -154,7 +154,7 @@ const technologies = [
 
 const projects = [
 	{
-		name: "Car Rent",
+		name: "Autozoom",
 		description:
 			"Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
 		tags: [
@@ -171,20 +171,41 @@ const projects = [
 				color: "pink-text-gradient",
 			},
 		],
-		image: carrent,
-		source_code_link: "https://github.com/",
+		image: autozoom,
+		source_code_link: "https://www.autozoomrental.com",
 	},
 	{
-		name: "Job IT",
+		name: "Resumind",
 		description:
-			"Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+			"An app that uses AI to analyze resumes, identify strengths and weaknesses, and provide suggestions for improvement and it helps job seekers to get hired.",
 		tags: [
 			{
 				name: "react",
 				color: "blue-text-gradient",
 			},
 			{
-				name: "restapi",
+				name: "puterjs",
+				color: "green-text-gradient",
+			},
+			{
+				name: "tailwind",
+				color: "pink-text-gradient",
+			},
+		],
+		image: resumind,
+		source_code_link: "https://github.com/Webprojon/ai-resume-analyzer",
+	},
+	{
+		name: "Real Estate",
+		description:
+			"A modern, responsive real estate application where users can explore property listings, post new properties, and manage accounts, integrates cloudinary for image storage.",
+		tags: [
+			{
+				name: "react",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "express",
 				color: "green-text-gradient",
 			},
 			{
@@ -192,29 +213,8 @@ const projects = [
 				color: "pink-text-gradient",
 			},
 		],
-		image: jobit,
-		source_code_link: "https://github.com/",
-	},
-	{
-		name: "Trip Guide",
-		description:
-			"A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-		tags: [
-			{
-				name: "nextjs",
-				color: "blue-text-gradient",
-			},
-			{
-				name: "supabase",
-				color: "green-text-gradient",
-			},
-			{
-				name: "css",
-				color: "pink-text-gradient",
-			},
-		],
-		image: tripguide,
-		source_code_link: "https://github.com/",
+		image: estate,
+		source_code_link: "https://github.com/Webprojon/estate-fullstact-app",
 	},
 ];
 
