@@ -1,12 +1,32 @@
-# React + Vite
+### Hi there, I'm Tokhirjon!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I'm a passionate **Fullstack Developer** who loves building modern, responsive web applications with a strong focus on **performance**, **user experience**, and **clean code**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠 **Tech Stack:**
 
-## Expanding the ESLint configuration
+- Node.js | Express.js | Firebase | Prisma ORM | MongoDb
+- HTML | CSS | Sass | JavaScript | TypeScript
+- Tailwind CSS | Styled Components | Bootstrap
+- Git | Webpack | Trello | Stripe | Postman
+- React | Next.js | Zustand | Redux
+- REST APIs | Axios | Fetch
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+📈 **Currently working on:**
+
+- Building performant and scalable web apps
+- Learning more about full-stack development
+- Exploring AI-integrated web experiences
+
+---
+
+📫 **How to reach me:**
+
+- Portfolio: [tokhirjonkhasanov.com](tokhirjonkhasanov.com)
+- LinkedIn: [linkedin/tokhirjon-khasanov](https://www.linkedin.com/in/tokhirjon-khasanov/)
+- Email: tokhirjonkhasanov@gmail.com
+
+---
